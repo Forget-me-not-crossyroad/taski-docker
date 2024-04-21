@@ -18,7 +18,7 @@ ssh -i путь_до_SSH_ключа/название_файла_с_SSH_ключ�
 ```
 Клонируйте проект на сервер
 ```
-git clone git@github.com:kora21/taski-docker.git
+git clone https://github.com/Forget-me-not-crossyroad/taski-docker.git
 ```
 Переходим в директорию backend-приложения проекта
 ```
